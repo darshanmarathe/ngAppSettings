@@ -1,0 +1,4 @@
+{
+    "environment": "local",
+    "apiURL":"http://google.com"
+}
